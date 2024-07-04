@@ -8,7 +8,7 @@ Simple task management application using Spring Boot
        <center>  1. Create task :- POST - "http://localhost:8081/tasks"
                             {<br>
                                 "title": "Task 1",<br>
-                                "description": "This is a test task",
+                                "description": "This is a test task",<br>
                                 "status": "Pending"<br>
                             }<br>
                 2. Get all tasks:- GET - "http://localhost:8081/tasks"<br>
