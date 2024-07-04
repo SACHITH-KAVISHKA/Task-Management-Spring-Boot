@@ -7,7 +7,7 @@ Simple task management application using Spring Boot
 <h3>Postman ap test:-</h3><br>
        <center>  1. Create task :- POST - "http://localhost:8081/tasks"
                             {<br>
-                                "title": "Tmkesnsssssnt",<br>
+                                "title": "Task 1",<br>
                                 "description": "This is a test task",
                                 "status": "Pending"<br>
                             }<br>
