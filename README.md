@@ -2,10 +2,10 @@
 Simple task management application using Spring Boot
 
 
-<h3>How to Run:-</h3><br> Right-click on the main class of TaskManagerApplication, then select run. Then it can be accessed through 'http://localhost:8081' in the web browser.<br>
+<h3>How to Run:-</h3><br> Right-click on the main class of TaskManagerApplication, then select run. Then it can be accessed through 'http://localhost:8081' in the web browser.<be>
 
-Postman ap test:-<br>
-                1. Create task :- POST - "http://localhost:8081/tasks"
+<h3>Postman ap test:-</h3><br>
+       <center>  1. Create task :- POST - "http://localhost:8081/tasks"
                             {<br>
                                 "title": "Tmkesnsssssnt",<br>
                                 "description": "This is a test task",
@@ -20,3 +20,4 @@ Postman ap test:-<br>
                                 "status": "In Progress"<br>
                             }<br>
                 5. Delete task :- DELETE - "http://localhost:8081/tasks/{id}"
+                </center>
